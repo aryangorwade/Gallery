@@ -9,9 +9,6 @@ import javax.swing.border.*;
 import java.text.*;
 import java.util.*;
 /**
- * <H1>CS1A GUI Assignment 5 </H1> <br>
- * Quarter: Fall 2020 <br>
- * <p>
  * This program can display one of ten movie posters that can be chosen from a drop-down menu.  
  * When run, this program first displays a control panel called "Gallery" containing the drop-down 
  * list, two text fields, and the Set Size button (this window is the ControlsFrame). It also 
